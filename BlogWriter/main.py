@@ -1,0 +1,1 @@
+print("Lets Kick start the Blog")
